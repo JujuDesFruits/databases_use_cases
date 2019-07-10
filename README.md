@@ -1,7 +1,8 @@
 # databases_use_cases
 Description of advantages and inconvenients for many databases
 here is the list of all databases classify by types:
-   
+
+---
 SQL   
 ---
 - Oracle
