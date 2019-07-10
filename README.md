@@ -1,28 +1,43 @@
 # databases_use_cases
 Description of advantages and inconvenients for many databases
 here is the list of all databases classify by types:
-SQL
+   
+SQL   
+---
 - Oracle
 - Mysql/MariaDB
 - postgreSQL
-Column Families
+---
+Column Families   
+---
 - HBase (Hadoop)
 - Cassandra
 - Hypertables
-Document Store
+---
+Document Store   
+---
 - Elastic
 - MongoDB
 - CouchDB
 - CouchBase
-Key/Value
+---
+Key/Value   
+---
 - redis
 - riak
-Graph
+---
+Graph   
+---
 - Neo4j
 - OrientDB
-Multimodel
+---
+Multimodel   
+---
 - ArangoDB
 - OpenLink Virtuoso
-Object
+---
+Object   
+---
 - Versant
 - db4o
+---
